@@ -1,5 +1,6 @@
-var message = "Hello People!";
+var message = "Hello Peopple!";
 alert(message);
 var a = 5;
 var b = 8;
 var sum = a + b;
+alert(sum);
